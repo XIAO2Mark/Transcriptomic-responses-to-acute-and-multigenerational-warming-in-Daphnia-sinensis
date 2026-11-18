@@ -12,4 +12,4 @@ This repository contains the R scripts used for RNA-seq processing, differential
 - `05_tf_regulatory_complexity.R`: predicted TF regulatory-complexity analysis
 - `99_session_info.R`: R session information and package versions
 
-Raw RNA-seq data are available from the NCBI Sequence Read Archive under BioProject accession no. PRJNAxxxxxx.
+Raw RNA-seq data are available from the NCBI Sequence Read Archive under BioProject accession no. PRJNA1507120.
